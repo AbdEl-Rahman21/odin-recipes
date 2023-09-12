@@ -1,4 +1,11 @@
-# odin-recipes
-The odin project: recipes project 
-create a basic website that has multiple webpages for different recipes 
-demonstrate basic knowlage of html.
+# Recipes
+
+The project for the [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) HTML Foundations course.
+
+## Description
+
+A simple HTML web page.
+
+### Visit
+
+[Visit here](https://abdel-rahman21.github.io/odin-recipes/)
